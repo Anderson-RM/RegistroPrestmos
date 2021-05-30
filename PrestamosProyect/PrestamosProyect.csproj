@@ -9,10 +9,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SQLite" Version="3.1.4" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Update="Data\PrestamosProyect.db">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
 </Project>
